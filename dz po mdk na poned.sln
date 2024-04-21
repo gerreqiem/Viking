@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dz po mdk na poned", "dz po mdk na poned\dz po mdk na poned.csproj", "{38FB5144-11E8-4DB7-96EC-DAD891FD1EAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VikingFitness", "..\VikingFitness\VikingFitness\VikingFitness.csproj", "{716DA6D1-DF83-4835-B1EA-A33F4484AF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38FB5144-11E8-4DB7-96EC-DAD891FD1EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FB5144-11E8-4DB7-96EC-DAD891FD1EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FB5144-11E8-4DB7-96EC-DAD891FD1EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FB5144-11E8-4DB7-96EC-DAD891FD1EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{716DA6D1-DF83-4835-B1EA-A33F4484AF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716DA6D1-DF83-4835-B1EA-A33F4484AF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716DA6D1-DF83-4835-B1EA-A33F4484AF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716DA6D1-DF83-4835-B1EA-A33F4484AF01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3448BB99-E950-4FDB-BC89-097F94C5A2F2}
+	EndGlobalSection
+EndGlobal
